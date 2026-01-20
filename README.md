@@ -1,5 +1,8 @@
 # Vauth::Rails
-Short description and motivation.
+
+> ![WARNING]
+> Do not use this in production! This is a placeholder repo for reserving the name on RubyGems. No functionality is
+> implemented yet.
 
 ## Usage
 How to use my plugin.
